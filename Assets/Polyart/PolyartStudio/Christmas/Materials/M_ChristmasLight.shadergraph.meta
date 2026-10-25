@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e53c4d8ee03ab614c82f8017181c31ac
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350958
+  packageName: Stylized Christmas Environment
+  packageVersion: 1.0
+  assetPath: Assets/Polyart/PolyartStudio/Christmas/Materials/M_ChristmasLight.shadergraph
+  uploadId: 836464
